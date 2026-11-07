@@ -98,9 +98,9 @@ I am continuously developing my skills through structured learning, practical si
 I welcome opportunities to learn, collaborate, contribute, and grow within the IT and Network Engineering community.
 
 - **GitHub:** [@Zaid-ul](https://github.com/Zaid-ul)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ibrahim-daramola-4597a5292/)
 
----
+--
 
 *This portfolio is continuously updated as I complete new projects and develop my networking skills.*
 
